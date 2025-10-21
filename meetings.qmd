@@ -10,6 +10,7 @@ format: html
 ## Notes
 - Understand big picture, not math details
 - Ensure code follows the data processing method
+- Refactor original author's code
 
 ## Action Items
 - [ ] Put raw data into data folder

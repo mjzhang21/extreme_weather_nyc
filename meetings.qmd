@@ -1,0 +1,14 @@
+---
+title: "Weekly Research Meeting"
+author: "Mark Zhang"
+date: "`r Sys.Date()`"
+format: html
+---
+
+
+# 10/21/25
+## Notes
+- 
+
+## Action Items
+- [ ] 

@@ -8,7 +8,12 @@ format: html
 
 # 10/21/25
 ## Notes
-- 
+- Understand big picture, not math details
+- Ensure code follows the data processing method
 
 ## Action Items
-- [ ] 
+- [ ] Put raw data into data folder
+- [ ] Organize data with only non zero values
+- [ ] Keep year, date and nonzero values as columns
+- [ ] Implement block maxima method
+- [ ] Implement threshold method
